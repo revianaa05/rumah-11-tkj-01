@@ -1,0 +1,8 @@
+Minuman:
+-air putih
+-boba
+-susu
+-teh
+-kopi
+-minuman rasa taro 
+-minuman rasa vanila
